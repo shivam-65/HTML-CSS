@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+}
+
+pre.center{
+    text-align: center;
+}
+
+h1{
+    background-color: blanchedalmond;
+    font-size: 30px;
+    text-align: center;
+}
