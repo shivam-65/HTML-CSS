@@ -1,5 +1,8 @@
 body{
     background-color: aqua;
+    font-family: serif,sans-serif;
+    font-weight: 500px;
+    font-style: italic;
 }
 
 pre.center{
@@ -10,4 +13,6 @@ h1{
     background-color: blanchedalmond;
     font-size: 30px;
     text-align: center;
+    color: rgb(247, 3, 3);
+    text-shadow: 2px 2px 4px yellow;
 }
